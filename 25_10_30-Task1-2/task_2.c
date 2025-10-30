@@ -1,13 +1,3 @@
-/*
-Step 1: Start the process
-Step 2: Declare the segment size
-Step 3: Create the shared memory
-Step 4: Write data to the shared memory
-Step 5: Read data from the shared memory
-Step 6: Remove the shared memory segment
-Step 7: Stop the process
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
